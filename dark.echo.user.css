@@ -166,7 +166,7 @@ a.dark:hover {
 .main a:visited, .supermaincarousel a:visited {
     color: #666 !important;
 }
-a.menulink:visited {
+a.menulink:visited, a.menuitem:visited {
     color: #fff !important;
 }
 }
