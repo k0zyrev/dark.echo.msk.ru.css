@@ -2,7 +2,7 @@
 @name         Dark theme for echo.msk.ru
 @namespace    github.com/k0zyrev/dark.echo.msk.ru.css
 @description  Makes you not go blind when opening echo.msk.ru. Also hides comments to save your sanity.
-@version      0.0.3
+@version      0.0.4
 ==/UserStyle== */
 
 @-moz-document domain("echo.msk.ru") {
@@ -166,7 +166,7 @@ a.dark:hover {
 .main a:visited, .supermaincarousel a:visited {
     color: #666 !important;
 }
-a.menulink:visited, a.menuitem:visited {
+a.menulink:visited, a.submenu:visited {
     color: #fff !important;
 }
 }
