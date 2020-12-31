@@ -163,9 +163,6 @@ a.dark:hover {
 .newslist .time_title {
     background: inherit !important;
 }
-a:visited {
-    color: #666 !important;
-}
 .main a:visited, .supermaincarousel a:visited {
     color: #666 !important;
 }
