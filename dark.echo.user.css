@@ -143,4 +143,19 @@
     .supermaincarousel a:visited {
         color: #666 !important;
     }
+    .entry {
+        background: #1f1f1f;
+    }
+    .profile {
+        background: #231f21;
+    }
+    .aboutperson h1, .aboutperson .login {
+        color: #fff;
+    }
+    .filtr_tabs .tabslist li a {
+        color: #fff !important;
+    }
+    .filtr_tabs .tabslist li.cur a {
+        color: #000 !important;
+    }
 }
